@@ -31,6 +31,3 @@
 [submodule "src/library/boot_message"]
 	path = src/library/boot_message
 	url = https://github.com/faraabin/boot_message.git
-[submodule "src/hal/phal/port/stm32l4xx"]
-	path = src/hal/phal/port/stm32l4xx
-	url = https://github.com/faraabin/stm32l4xx_phal.git
