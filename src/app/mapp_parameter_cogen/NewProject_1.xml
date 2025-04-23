@@ -1,0 +1,1509 @@
+<?xml version="1.0"?>
+<sProjectXml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListSetting>
+    <sSetting xsi:nil="true" />
+    <sSetting xsi:type="CodeG_ParameterList_Setting">
+      <AliasName>ParameterList_1</AliasName>
+      <FullPathAliasName>ParameterList_1</FullPathAliasName>
+      <OType>ParameterList</OType>
+      <ParametersXml>&lt;DocumentElement&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;1&lt;/Id&gt;
+    &lt;ParamId&gt;P1&lt;/ParamId&gt;
+    &lt;Name&gt;Param_1&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;0&lt;/Min&gt;
+    &lt;Max&gt;9&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_1&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_4&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;2&lt;/Id&gt;
+    &lt;ParamId&gt;P2&lt;/ParamId&gt;
+    &lt;Name&gt;Param_2&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;P005&lt;/Min&gt;
+    &lt;Max&gt;P004&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_2&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_5&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;3&lt;/Id&gt;
+    &lt;ParamId&gt;P3&lt;/ParamId&gt;
+    &lt;Name&gt;Param_3&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;P008&lt;/Min&gt;
+    &lt;Max&gt;9&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_3&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_6&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;4&lt;/Id&gt;
+    &lt;ParamId&gt;P4&lt;/ParamId&gt;
+    &lt;Name&gt;Param_4&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;1&lt;/Min&gt;
+    &lt;Max&gt;P001&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_1&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_4&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;5&lt;/Id&gt;
+    &lt;ParamId&gt;P5&lt;/ParamId&gt;
+    &lt;Name&gt;Param_5&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;2&lt;/Min&gt;
+    &lt;Max&gt;10&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_2&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_5&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;6&lt;/Id&gt;
+    &lt;ParamId&gt;P6&lt;/ParamId&gt;
+    &lt;Name&gt;Param_6&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;3&lt;/Min&gt;
+    &lt;Max&gt;11&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_3&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_6&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;7&lt;/Id&gt;
+    &lt;ParamId&gt;P7&lt;/ParamId&gt;
+    &lt;Name&gt;Param_7&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;4&lt;/Min&gt;
+    &lt;Max&gt;12&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_1&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_4&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;8&lt;/Id&gt;
+    &lt;ParamId&gt;P8&lt;/ParamId&gt;
+    &lt;Name&gt;Param_8&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;5&lt;/Min&gt;
+    &lt;Max&gt;13&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_2&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_5&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;9&lt;/Id&gt;
+    &lt;ParamId&gt;P9&lt;/ParamId&gt;
+    &lt;Name&gt;Param_9&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;6&lt;/Min&gt;
+    &lt;Max&gt;14&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_3&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_6&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+  &lt;Parameters&gt;
+    &lt;Id&gt;10&lt;/Id&gt;
+    &lt;ParamId&gt;P10&lt;/ParamId&gt;
+    &lt;Name&gt;Param_10&lt;/Name&gt;
+    &lt;Type&gt;Measure&lt;/Type&gt;
+    &lt;Symbol&gt;s&lt;/Symbol&gt;
+    &lt;VarType&gt;float32_t&lt;/VarType&gt;
+    &lt;Min&gt;7&lt;/Min&gt;
+    &lt;Max&gt;15&lt;/Max&gt;
+    &lt;DefaultValue&gt;0&lt;/DefaultValue&gt;
+    &lt;Unit&gt;u&lt;/Unit&gt;
+    &lt;Description&gt;d&lt;/Description&gt;
+    &lt;GROP_VarType_1&gt;Member_1&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_4&lt;/GROP_VarType_2&gt;
+  &lt;/Parameters&gt;
+&lt;/DocumentElement&gt;</ParametersXml>
+      <GroupNames>
+        <string>VarType_1</string>
+        <string>VarType_2</string>
+      </GroupNames>
+    </sSetting>
+    <sSetting xsi:type="FbProject_Setting">
+      <AliasName>NewProject_1</AliasName>
+      <FullPathAliasName>NewProject_1</FullPathAliasName>
+      <OType>Project</OType>
+      <AfterLoadScriptText />
+      <AfterConnectScriptText />
+    </sSetting>
+    <sSetting xsi:type="CodeG_EventList_Setting">
+      <AliasName>EventList_1</AliasName>
+      <FullPathAliasName>EventList_1</FullPathAliasName>
+      <OType>EventList</OType>
+      <EventsXml>&lt;DocumentElement&gt;
+  &lt;Events&gt;
+    &lt;EventEnable&gt;true&lt;/EventEnable&gt;
+    &lt;Id&gt;1&lt;/Id&gt;
+    &lt;Type&gt;Signal&lt;/Type&gt;
+    &lt;Name&gt;eEVENT_EventList_1_Param_1_&lt;/Name&gt;
+    &lt;ParameterName&gt;Param_1&lt;/ParameterName&gt;
+    &lt;SignalMode&gt;Greather&lt;/SignalMode&gt;
+    &lt;EventSignalMax&gt;P003&lt;/EventSignalMax&gt;
+    &lt;EventSignalMin&gt;0&lt;/EventSignalMin&gt;
+    &lt;EventSignalHysteresis&gt;3&lt;/EventSignalHysteresis&gt;
+    &lt;UserCode&gt;int a = 4;
+return true;&lt;/UserCode&gt;
+    &lt;DebEnable&gt;true&lt;/DebEnable&gt;
+    &lt;SetTimeMs&gt;P001&lt;/SetTimeMs&gt;
+    &lt;ResetTimeMs&gt;8&lt;/ResetTimeMs&gt;
+    &lt;CntEnable&gt;true&lt;/CntEnable&gt;
+    &lt;CntThr&gt;56&lt;/CntThr&gt;
+    &lt;Description&gt;ewew
+ewrew
+ewr
+&lt;/Description&gt;
+    &lt;ExtEnable&gt;true&lt;/ExtEnable&gt;
+    &lt;GROP_VarType_1&gt;Member_2&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_4&lt;/GROP_VarType_2&gt;
+    &lt;STT_VarType_3.State1&gt;true&lt;/STT_VarType_3.State1&gt;
+    &lt;STT_VarType_3.State2&gt;true&lt;/STT_VarType_3.State2&gt;
+    &lt;STT_VarType_3.State3&gt;true&lt;/STT_VarType_3.State3&gt;
+    &lt;RST_VarType_4.S1&gt;true&lt;/RST_VarType_4.S1&gt;
+    &lt;RST_VarType_4.S2&gt;false&lt;/RST_VarType_4.S2&gt;
+    &lt;RST_VarType_4.S3&gt;false&lt;/RST_VarType_4.S3&gt;
+  &lt;/Events&gt;
+  &lt;Events&gt;
+    &lt;EventEnable&gt;true&lt;/EventEnable&gt;
+    &lt;Id&gt;2&lt;/Id&gt;
+    &lt;Type&gt;Signal&lt;/Type&gt;
+    &lt;Name&gt;eEVENT_EventList_1_Param_2_&lt;/Name&gt;
+    &lt;ParameterName&gt;Param_2&lt;/ParameterName&gt;
+    &lt;SignalMode&gt;Smaller&lt;/SignalMode&gt;
+    &lt;EventSignalMax&gt;9&lt;/EventSignalMax&gt;
+    &lt;EventSignalMin&gt;P004&lt;/EventSignalMin&gt;
+    &lt;EventSignalHysteresis&gt;4&lt;/EventSignalHysteresis&gt;
+    &lt;UserCode&gt;int a = 4;
+return true;&lt;/UserCode&gt;
+    &lt;DebEnable&gt;true&lt;/DebEnable&gt;
+    &lt;SetTimeMs&gt;7&lt;/SetTimeMs&gt;
+    &lt;ResetTimeMs&gt;P002&lt;/ResetTimeMs&gt;
+    &lt;CntEnable&gt;false&lt;/CntEnable&gt;
+    &lt;CntThr&gt;6&lt;/CntThr&gt;
+    &lt;Description&gt;ff&lt;/Description&gt;
+    &lt;ExtEnable&gt;false&lt;/ExtEnable&gt;
+    &lt;GROP_VarType_1&gt;Member_1&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_5&lt;/GROP_VarType_2&gt;
+    &lt;STT_VarType_3.State1&gt;false&lt;/STT_VarType_3.State1&gt;
+    &lt;STT_VarType_3.State2&gt;true&lt;/STT_VarType_3.State2&gt;
+    &lt;STT_VarType_3.State3&gt;false&lt;/STT_VarType_3.State3&gt;
+    &lt;RST_VarType_4.S1&gt;true&lt;/RST_VarType_4.S1&gt;
+    &lt;RST_VarType_4.S2&gt;false&lt;/RST_VarType_4.S2&gt;
+    &lt;RST_VarType_4.S3&gt;false&lt;/RST_VarType_4.S3&gt;
+  &lt;/Events&gt;
+  &lt;Events&gt;
+    &lt;EventEnable&gt;true&lt;/EventEnable&gt;
+    &lt;Id&gt;3&lt;/Id&gt;
+    &lt;Type&gt;UserCode&lt;/Type&gt;
+    &lt;Name&gt;eEVENT_EventList_1_Param_3_&lt;/Name&gt;
+    &lt;ParameterName&gt;Param_3&lt;/ParameterName&gt;
+    &lt;SignalMode&gt;Between&lt;/SignalMode&gt;
+    &lt;EventSignalMax&gt;8&lt;/EventSignalMax&gt;
+    &lt;EventSignalMin&gt;1&lt;/EventSignalMin&gt;
+    &lt;EventSignalHysteresis&gt;P006&lt;/EventSignalHysteresis&gt;
+    &lt;UserCode&gt;int a = 4;
+return true;&lt;/UserCode&gt;
+    &lt;DebEnable&gt;false&lt;/DebEnable&gt;
+    &lt;SetTimeMs&gt;6&lt;/SetTimeMs&gt;
+    &lt;ResetTimeMs&gt;7&lt;/ResetTimeMs&gt;
+    &lt;CntEnable&gt;false&lt;/CntEnable&gt;
+    &lt;CntThr&gt;6&lt;/CntThr&gt;
+    &lt;Description&gt;ff&lt;/Description&gt;
+    &lt;ExtEnable&gt;true&lt;/ExtEnable&gt;
+    &lt;GROP_VarType_1&gt;Member_3&lt;/GROP_VarType_1&gt;
+    &lt;GROP_VarType_2&gt;Member_6&lt;/GROP_VarType_2&gt;
+    &lt;STT_VarType_3.State1&gt;false&lt;/STT_VarType_3.State1&gt;
+    &lt;STT_VarType_3.State2&gt;false&lt;/STT_VarType_3.State2&gt;
+    &lt;STT_VarType_3.State3&gt;false&lt;/STT_VarType_3.State3&gt;
+    &lt;RST_VarType_4.S1&gt;true&lt;/RST_VarType_4.S1&gt;
+    &lt;RST_VarType_4.S2&gt;false&lt;/RST_VarType_4.S2&gt;
+    &lt;RST_VarType_4.S3&gt;false&lt;/RST_VarType_4.S3&gt;
+  &lt;/Events&gt;
+&lt;/DocumentElement&gt;</EventsXml>
+      <GroupNames>
+        <string>VarType_1</string>
+        <string>VarType_2</string>
+      </GroupNames>
+      <StateNames>
+        <string>VarType_3</string>
+      </StateNames>
+      <ResetSourceNames>
+        <string>VarType_4</string>
+      </ResetSourceNames>
+    </sSetting>
+    <sSetting xsi:type="CodeG_VarType_Setting">
+      <AliasName>VarType_1</AliasName>
+      <FullPathAliasName>VarType_1</FullPathAliasName>
+      <OType>VarType</OType>
+      <TypeArchitecture>Enum</TypeArchitecture>
+      <EnumMembers>
+        <EnumMember>
+          <Name>Member_1</Name>
+          <Value>1</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>Member_2</Name>
+          <Value>2</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>Member_3</Name>
+          <Value>3</Value>
+        </EnumMember>
+      </EnumMembers>
+    </sSetting>
+    <sSetting xsi:type="CodeG_VarType_Setting">
+      <AliasName>VarType_2</AliasName>
+      <FullPathAliasName>VarType_2</FullPathAliasName>
+      <OType>VarType</OType>
+      <TypeArchitecture>Enum</TypeArchitecture>
+      <EnumMembers>
+        <EnumMember>
+          <Name>Member_4</Name>
+          <Value>1</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>Member_5</Name>
+          <Value>2</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>Member_6</Name>
+          <Value>3</Value>
+        </EnumMember>
+      </EnumMembers>
+    </sSetting>
+    <sSetting xsi:type="CodeG_VarType_Setting">
+      <AliasName>VarType_3</AliasName>
+      <FullPathAliasName>VarType_3</FullPathAliasName>
+      <OType>VarType</OType>
+      <TypeArchitecture>Enum</TypeArchitecture>
+      <EnumMembers>
+        <EnumMember>
+          <Name>State1</Name>
+          <Value>1</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>State2</Name>
+          <Value>2</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>State3</Name>
+          <Value>3</Value>
+        </EnumMember>
+      </EnumMembers>
+    </sSetting>
+    <sSetting xsi:type="CodeG_VarType_Setting">
+      <AliasName>VarType_4</AliasName>
+      <FullPathAliasName>VarType_4</FullPathAliasName>
+      <OType>VarType</OType>
+      <TypeArchitecture>Enum</TypeArchitecture>
+      <EnumMembers>
+        <EnumMember>
+          <Name>S1</Name>
+          <Value>1</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>S2</Name>
+          <Value>2</Value>
+        </EnumMember>
+        <EnumMember>
+          <Name>S3</Name>
+          <Value>3</Value>
+        </EnumMember>
+      </EnumMembers>
+    </sSetting>
+    <sSetting xsi:type="ParameterListWd_Setting">
+      <AliasName>ParameterList_1 Window</AliasName>
+      <FullPathAliasName>ParameterList_1 Window</FullPathAliasName>
+      <OType>ParameterListWd</OType>
+      <FobjectFullPathAliasName>ParameterList_1</FobjectFullPathAliasName>
+      <Layout>&lt;XtraSerializer version="1.0" application="View"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+  &lt;property name="#LayoutScaleFactor"&gt;@1,Width=1@1,Height=1&lt;/property&gt;
+  &lt;property name="OptionsView" isnull="true" iskey="true"&gt;
+    &lt;property name="ColumnAutoWidth"&gt;false&lt;/property&gt;
+    &lt;property name="RowAutoHeight"&gt;true&lt;/property&gt;
+    &lt;property name="ShowHorizontalLines"&gt;True&lt;/property&gt;
+    &lt;property name="ShowVerticalLines"&gt;True&lt;/property&gt;
+    &lt;property name="ShowFilterPanelMode"&gt;Never&lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="ActiveFilterEnabled"&gt;true&lt;/property&gt;
+  &lt;property name="Columns" iskey="true" value="13"&gt;
+    &lt;property name="Item1" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colId&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;0&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;58&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item2" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colParamId&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;88&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item3" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colName&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;2&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;75&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item4" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colType&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;3&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;72&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item5" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colSymbol&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;4&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;82&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item6" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colVarType&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;5&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;88&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item7" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colMin&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;6&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;64&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item8" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colMax&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;7&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;68&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item9" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colDefaultValue&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;8&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;109&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item10" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colUnit&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;9&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;67&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item11" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colDescription&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;10&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;101&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item12" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colGROP_VarType_1&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;11&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;134&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item13" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colGROP_VarType_2&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;12&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;134&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="GroupSummary" iskey="true" value="0" /&gt;
+  &lt;property name="ActiveFilterString" /&gt;
+  &lt;property name="FormatRules" iskey="true" value="0" /&gt;
+  &lt;property name="GroupSummarySortInfoState" /&gt;
+  &lt;property name="FindFilterText" /&gt;
+  &lt;property name="FindPanelVisible"&gt;false&lt;/property&gt;
+&lt;/XtraSerializer&gt;</Layout>
+    </sSetting>
+    <sSetting xsi:type="EventListWd_Setting">
+      <AliasName>EventList_1 Window</AliasName>
+      <FullPathAliasName>EventList_1 Window</FullPathAliasName>
+      <OType>EventListWd</OType>
+      <FobjectFullPathAliasName>EventList_1</FobjectFullPathAliasName>
+      <Layout>&lt;XtraSerializer version="1.0" application="View"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+  &lt;property name="#LayoutScaleFactor"&gt;@1,Width=1@1,Height=1&lt;/property&gt;
+  &lt;property name="OptionsView" isnull="true" iskey="true"&gt;
+    &lt;property name="ColumnAutoWidth"&gt;false&lt;/property&gt;
+    &lt;property name="RowAutoHeight"&gt;true&lt;/property&gt;
+    &lt;property name="ShowHorizontalLines"&gt;True&lt;/property&gt;
+    &lt;property name="ShowVerticalLines"&gt;True&lt;/property&gt;
+    &lt;property name="ShowFilterPanelMode"&gt;Never&lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="ActiveFilterEnabled"&gt;true&lt;/property&gt;
+  &lt;property name="Columns" iskey="true" value="26"&gt;
+    &lt;property name="Item1" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colEventEnable&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;108&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item2" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colId&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;0&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;58&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item3" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colType&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;2&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;72&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item4" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colName&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;3&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;172&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item5" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colParameterName&lt;/property&gt;
+      &lt;property name="Width"&gt;125&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item6" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colSignalMode&lt;/property&gt;
+      &lt;property name="Width"&gt;102&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item7" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colOperation&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;4&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;96&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item8" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colEventSignalMax&lt;/property&gt;
+      &lt;property name="Width"&gt;124&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item9" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colEventSignalMin&lt;/property&gt;
+      &lt;property name="Width"&gt;120&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item10" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colEventSignalHysteresis&lt;/property&gt;
+      &lt;property name="Width"&gt;154&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item11" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colUserCode&lt;/property&gt;
+      &lt;property name="Width"&gt;95&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item12" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colDebEnable&lt;/property&gt;
+      &lt;property name="Width"&gt;99&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item13" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colSetTimeMs&lt;/property&gt;
+      &lt;property name="Width"&gt;99&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item14" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colResetTimeMs&lt;/property&gt;
+      &lt;property name="Width"&gt;111&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item15" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colCntEnable&lt;/property&gt;
+      &lt;property name="Width"&gt;97&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item16" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colCntThr&lt;/property&gt;
+      &lt;property name="Width"&gt;81&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item17" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colDescription&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;5&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;101&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item18" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colExtEnable&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;6&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;96&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item19" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colGROP_VarType_1&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;7&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;134&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item20" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colGROP_VarType_2&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;8&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;134&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item21" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colSTT_VarType_3.State1&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;9&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;160&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item22" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colSTT_VarType_3.State2&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;10&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;160&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item23" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colSTT_VarType_3.State3&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;11&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;160&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item24" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colRST_VarType_4.S1&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;12&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;141&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item25" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colRST_VarType_4.S2&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;13&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;141&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item26" isnull="true" iskey="true"&gt;
+      &lt;property name="Name"&gt;colRST_VarType_4.S3&lt;/property&gt;
+      &lt;property name="VisibleIndex"&gt;14&lt;/property&gt;
+      &lt;property name="Visible"&gt;true&lt;/property&gt;
+      &lt;property name="Width"&gt;141&lt;/property&gt;
+      &lt;property name="MinWidth"&gt;20&lt;/property&gt;
+      &lt;property name="MaxWidth"&gt;0&lt;/property&gt;
+    &lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="GroupSummary" iskey="true" value="0" /&gt;
+  &lt;property name="ActiveFilterString" /&gt;
+  &lt;property name="FormatRules" iskey="true" value="0" /&gt;
+  &lt;property name="GroupSummarySortInfoState" /&gt;
+  &lt;property name="FindFilterText" /&gt;
+  &lt;property name="FindPanelVisible"&gt;false&lt;/property&gt;
+&lt;/XtraSerializer&gt;</Layout>
+    </sSetting>
+    <sSetting xsi:type="VarTypeWd_Setting">
+      <AliasName>VarType_1 Window</AliasName>
+      <FullPathAliasName>VarType_1 Window</FullPathAliasName>
+      <OType>VarTypeWd</OType>
+      <FobjectFullPathAliasName>VarType_1</FobjectFullPathAliasName>
+    </sSetting>
+    <sSetting xsi:type="VarTypeWd_Setting">
+      <AliasName>VarType_2 Window</AliasName>
+      <FullPathAliasName>VarType_2 Window</FullPathAliasName>
+      <OType>VarTypeWd</OType>
+      <FobjectFullPathAliasName>VarType_2</FobjectFullPathAliasName>
+    </sSetting>
+    <sSetting xsi:type="VarTypeWd_Setting">
+      <AliasName>VarType_3 Window</AliasName>
+      <FullPathAliasName>VarType_3 Window</FullPathAliasName>
+      <OType>VarTypeWd</OType>
+      <FobjectFullPathAliasName>VarType_3</FobjectFullPathAliasName>
+    </sSetting>
+    <sSetting xsi:type="VarTypeWd_Setting">
+      <AliasName>VarType_4 Window</AliasName>
+      <FullPathAliasName>VarType_4 Window</FullPathAliasName>
+      <OType>VarTypeWd</OType>
+      <FobjectFullPathAliasName>VarType_4</FobjectFullPathAliasName>
+    </sSetting>
+  </ListSetting>
+  <DockManagerXml>&lt;XtraSerializer version="1.0" application="DockManager"&gt;
+  &lt;property name="#LayoutVersion" /&gt;
+  &lt;property name="#LayoutScaleFactor"&gt;@1,Width=1@1,Height=1&lt;/property&gt;
+  &lt;property name="AllowGlyphSkinning"&gt;false&lt;/property&gt;
+  &lt;property name="Style"&gt;Classic&lt;/property&gt;
+  &lt;property name="AutoHiddenPanelCaptionShowMode"&gt;ShowForAllPanels&lt;/property&gt;
+  &lt;property name="AutoHideContainers" iskey="true" value="1"&gt;
+    &lt;property name="Item1" isnull="true" iskey="true"&gt;
+      &lt;property name="Dock"&gt;Right&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;3&lt;/property&gt;
+    &lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="DockingOptions" isnull="true" iskey="true"&gt;
+    &lt;property name="AutoHidePanelVerticalTextOrientation"&gt;Default&lt;/property&gt;
+    &lt;property name="TabbedPanelVerticalTextOrientation"&gt;Default&lt;/property&gt;
+    &lt;property name="CustomResizeZoneThickness"&gt;6&lt;/property&gt;
+    &lt;property name="CursorFloatCanceled" isnull="true" /&gt;
+    &lt;property name="HideImmediatelyOnAutoHide"&gt;false&lt;/property&gt;
+    &lt;property name="HidePanelsImmediately"&gt;Never&lt;/property&gt;
+    &lt;property name="CloseActiveTabOnly"&gt;true&lt;/property&gt;
+    &lt;property name="CloseActiveFloatTabOnly"&gt;false&lt;/property&gt;
+    &lt;property name="ShowCaptionOnMouseHover"&gt;false&lt;/property&gt;
+    &lt;property name="ShowCaptionImage"&gt;true&lt;/property&gt;
+    &lt;property name="FloatPanelsAlwaysOnTop"&gt;Default&lt;/property&gt;
+    &lt;property name="AllowRestoreToAutoHideContainer"&gt;false&lt;/property&gt;
+    &lt;property name="AllowDockToCenter"&gt;Default&lt;/property&gt;
+    &lt;property name="DockPanelInTabContainerTabRegion"&gt;DockImmediately&lt;/property&gt;
+    &lt;property name="DockPanelInCaptionRegion"&gt;Default&lt;/property&gt;
+    &lt;property name="SnapMode"&gt;All&lt;/property&gt;
+    &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+    &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+    &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+    &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+    &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="ActivePanelID"&gt;1&lt;/property&gt;
+  &lt;property name="XtraSerializableScreenConfiguration" iskey="true" value="2"&gt;
+    &lt;property name="Item1"&gt;@1,X=0@1,Y=0@4,Width=1920@4,Height=1200&lt;/property&gt;
+    &lt;property name="Item2"&gt;@4,X=-345@5,Y=-1440@4,Width=2560@4,Height=1440&lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="Panels" iskey="true" value="14"&gt;
+    &lt;property name="Item1" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Left&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;Explorer&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;false&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;55d8e051-2a47-441b-87ce-c2b668932469&lt;/property&gt;
+      &lt;property name="XtraID"&gt;0&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@1,X=0@1,Y=0@3,Width=581@4,Height=1043&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=581@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;2&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item2" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;true&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Fill&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;OutputWd&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;false&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;6&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;25222959-6bce-4727-a057-3e36c00b0588&lt;/property&gt;
+      &lt;property name="XtraID"&gt;1&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@1,X=0@1,Y=0@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item3" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;true&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Fill&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;Engine&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;false&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;6&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;81eaaf22-9e81-4165-8681-7947ef0e83e4&lt;/property&gt;
+      &lt;property name="XtraID"&gt;2&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@1,X=0@1,Y=0@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;0&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item4" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Right&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Hidden&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;  Setting&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;false&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;67133547-6a6d-433f-b5ee-3714cc89cd5c&lt;/property&gt;
+      &lt;property name="XtraID"&gt;3&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@3,X=352@1,Y=0@3,Width=976@3,Height=388&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=489@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Right&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item5" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;2&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Right&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Hidden&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;Generated Code&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;false&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;false&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;5461971d-6e47-4853-9854-440a615e1692&lt;/property&gt;
+      &lt;property name="XtraID"&gt;4&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@4,X=1971@1,Y=0@3,Width=838@4,Height=1055&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=419@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Right&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item6" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Right&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;AutoHide&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;Properties&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;false&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-2&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Right&lt;/property&gt;
+      &lt;property name="ID"&gt;fd3436bf-52f8-4d9c-9239-86d5dd9b659e&lt;/property&gt;
+      &lt;property name="XtraID"&gt;5&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@1,X=0@1,Y=0@3,Width=528@4,Height=1487&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=528@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;0&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Right&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item7" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;2&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;true&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Bottom&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;true&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;panelContainer1&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;47d7fc90-f246-40f4-aaf1-64c921793254&lt;/property&gt;
+      &lt;property name="XtraID"&gt;6&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@3,X=581@3,Y=611@4,Width=1302@3,Height=432&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=432&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item8" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@4,Width=2354@3,Height=919&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Fill&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;ParameterList_1 Window&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;13&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;3dfc2e72-7986-45b8-abbf-d368eba4ca9d&lt;/property&gt;
+      &lt;property name="XtraID"&gt;7&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@1,X=0@1,Y=0@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item9" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@4,Width=2354@3,Height=919&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Fill&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;EventList_1 Window&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;13&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;784e2402-a15b-417c-8a4f-ce62bf243a6e&lt;/property&gt;
+      &lt;property name="XtraID"&gt;8&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@1,X=0@1,Y=0@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;0&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item10" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;2&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@4,X=1070@3,Y=511&lt;/property&gt;
+      &lt;property name="Dock"&gt;Float&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Hidden&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;VarType_1 Window&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;6260d7b9-3bd2-4d1e-ae51-3fcc7ba7a8ea&lt;/property&gt;
+      &lt;property name="XtraID"&gt;9&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@6,X=-32768@6,Y=-32768@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item11" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;3&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@4,X=1070@3,Y=511&lt;/property&gt;
+      &lt;property name="Dock"&gt;Float&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Hidden&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;VarType_2 Window&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;da3a33dd-d36b-4222-a293-f8ba2711abdc&lt;/property&gt;
+      &lt;property name="XtraID"&gt;10&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@6,X=-32768@6,Y=-32768@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item12" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;2&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@4,X=1070@3,Y=511&lt;/property&gt;
+      &lt;property name="Dock"&gt;Float&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Hidden&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;VarType_3 Window&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;4488d262-23fb-4997-9691-d1eb761f9168&lt;/property&gt;
+      &lt;property name="XtraID"&gt;11&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@6,X=-32768@6,Y=-32768@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item13" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;0&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;2&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@4,X=1070@3,Y=511&lt;/property&gt;
+      &lt;property name="Dock"&gt;Float&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;false&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Hidden&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;VarType_4 Window&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;d585bf15-af6d-4be8-a7ac-a996a05478e9&lt;/property&gt;
+      &lt;property name="XtraID"&gt;12&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@6,X=-32768@6,Y=-32768@3,Width=740@3,Height=683&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;-1&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Float&lt;/property&gt;
+    &lt;/property&gt;
+    &lt;property name="Item14" isnull="true" iskey="true"&gt;
+      &lt;property name="DockedAsTabbedDocument"&gt;false&lt;/property&gt;
+      &lt;property name="Count"&gt;2&lt;/property&gt;
+      &lt;property name="SavedIndex"&gt;2&lt;/property&gt;
+      &lt;property name="SavedTabbed"&gt;false&lt;/property&gt;
+      &lt;property name="SavedMdiDocument"&gt;false&lt;/property&gt;
+      &lt;property name="SavedSizeFactor"&gt;1&lt;/property&gt;
+      &lt;property name="FloatSize"&gt;@4,Width=2354@3,Height=919&lt;/property&gt;
+      &lt;property name="FloatVertical"&gt;false&lt;/property&gt;
+      &lt;property name="DockVertical"&gt;Default&lt;/property&gt;
+      &lt;property name="FloatLocation"&gt;@1,X=0@1,Y=0&lt;/property&gt;
+      &lt;property name="Dock"&gt;Fill&lt;/property&gt;
+      &lt;property name="ChildPanelOrientation"&gt;Default&lt;/property&gt;
+      &lt;property name="Header" /&gt;
+      &lt;property name="Footer" /&gt;
+      &lt;property name="AllowBorderColorBlending"&gt;false&lt;/property&gt;
+      &lt;property name="Tabbed"&gt;true&lt;/property&gt;
+      &lt;property name="TabsPosition"&gt;Bottom&lt;/property&gt;
+      &lt;property name="TabsScroll"&gt;false&lt;/property&gt;
+      &lt;property name="ImageIndex"&gt;1&lt;/property&gt;
+      &lt;property name="Visibility"&gt;Visible&lt;/property&gt;
+      &lt;property name="TabText" /&gt;
+      &lt;property name="AllowGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="AllowCustomHeaderButtonsGlyphSkinning"&gt;Default&lt;/property&gt;
+      &lt;property name="Hint" /&gt;
+      &lt;property name="Text"&gt;panelContainer2&lt;/property&gt;
+      &lt;property name="Options" isnull="true" iskey="true"&gt;
+        &lt;property name="AllowFloating"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockLeft"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockRight"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockTop"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockBottom"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockFill"&gt;true&lt;/property&gt;
+        &lt;property name="AllowDockAsTabbedDocument"&gt;true&lt;/property&gt;
+        &lt;property name="ResizeDirection"&gt;All&lt;/property&gt;
+        &lt;property name="ShowMaximizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowMinimizeButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowAutoHideButton"&gt;true&lt;/property&gt;
+        &lt;property name="ShowCloseButton"&gt;true&lt;/property&gt;
+        &lt;property name="FloatOnDblClick"&gt;true&lt;/property&gt;
+      &lt;/property&gt;
+      &lt;property name="XtraParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraSavedParentID"&gt;-1&lt;/property&gt;
+      &lt;property name="XtraAutoHideContainerDock"&gt;Float&lt;/property&gt;
+      &lt;property name="ID"&gt;7cf1abbe-b7a3-4ede-82f0-15a55035a29b&lt;/property&gt;
+      &lt;property name="XtraID"&gt;13&lt;/property&gt;
+      &lt;property name="XtraActiveChildID"&gt;7&lt;/property&gt;
+      &lt;property name="XtraBounds"&gt;@3,X=581@1,Y=0@4,Width=1302@3,Height=611&lt;/property&gt;
+      &lt;property name="OriginalSize"&gt;@3,Width=200@3,Height=200&lt;/property&gt;
+      &lt;property name="XtraZIndex"&gt;0&lt;/property&gt;
+      &lt;property name="SavedDock"&gt;Fill&lt;/property&gt;
+    &lt;/property&gt;
+  &lt;/property&gt;
+  &lt;property name="TopZIndexControls" iskey="true" value="12"&gt;
+    &lt;property name="Item1" type="System.String"&gt;DevExpress.XtraBars.BarDockControl&lt;/property&gt;
+    &lt;property name="Item2" type="System.String"&gt;DevExpress.XtraBars.StandaloneBarDockControl&lt;/property&gt;
+    &lt;property name="Item3" type="System.String"&gt;System.Windows.Forms.MenuStrip&lt;/property&gt;
+    &lt;property name="Item4" type="System.String"&gt;System.Windows.Forms.StatusStrip&lt;/property&gt;
+    &lt;property name="Item5" type="System.String"&gt;System.Windows.Forms.StatusBar&lt;/property&gt;
+    &lt;property name="Item6" type="System.String"&gt;DevExpress.XtraBars.Ribbon.RibbonStatusBar&lt;/property&gt;
+    &lt;property name="Item7" type="System.String"&gt;DevExpress.XtraBars.Ribbon.RibbonControl&lt;/property&gt;
+    &lt;property name="Item8" type="System.String"&gt;DevExpress.XtraBars.Navigation.OfficeNavigationBar&lt;/property&gt;
+    &lt;property name="Item9" type="System.String"&gt;DevExpress.XtraBars.Navigation.TileNavPane&lt;/property&gt;
+    &lt;property name="Item10" type="System.String"&gt;DevExpress.XtraBars.TabFormControl&lt;/property&gt;
+    &lt;property name="Item11" type="System.String"&gt;DevExpress.XtraBars.FluentDesignSystem.FluentDesignFormControl&lt;/property&gt;
+    &lt;property name="Item12" type="System.String"&gt;DevExpress.XtraBars.ToolbarForm.ToolbarFormControl&lt;/property&gt;
+  &lt;/property&gt;
+&lt;/XtraSerializer&gt;</DockManagerXml>
+</sProjectXml>

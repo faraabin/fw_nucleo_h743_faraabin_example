@@ -1,0 +1,36 @@
+[submodule "src/library/chrono"]
+	path = src/library/chrono
+	url = https://github.com/faraabin/chrono.git
+[submodule "src/library/runtime_scaler"]
+	path = src/library/runtime_scaler
+	url = https://github.com/faraabin/runtime_scaler.git
+[submodule "src/library/state_machine"]
+	path = src/library/state_machine
+	url = https://github.com/faraabin/state_machine.git
+[submodule "src/library/i_driver"]
+	path = src/library/i_driver
+	url = https://github.com/faraabin/i_driver.git
+[submodule "src/library/utility"]
+	path = src/library/utility
+	url = https://github.com/faraabin/utility.git
+[submodule "src/hal/stm32h7xx_phal"]
+	path = src/hal/stm32h7xx_phal
+	url = https://github.com/faraabin/stm32h7xx_phal.git
+[submodule "src/library/sw_faraabin"]
+	path = src/library/sw_faraabin
+	url = https://github.com/faraabin/sw_faraabin.git
+[submodule "src/library/sw_parameter_cogen"]
+	path = src/library/sw_parameter_cogen
+	url = https://github.com/faraabin/sw_parameter_cogen.git
+[submodule "src/library/modbus"]
+	path = src/library/modbus
+	url = https://github.com/faraabin/modbus.git
+[submodule "src/library/cpu_profiler"]
+	path = src/library/cpu_profiler
+	url = https://github.com/faraabin/cpu_profiler.git
+[submodule "src/library/boot_message"]
+	path = src/library/boot_message
+	url = https://github.com/faraabin/boot_message.git
+[submodule "src/hal/phal/port/stm32l4xx"]
+	path = src/hal/phal/port/stm32l4xx
+	url = https://github.com/faraabin/stm32l4xx_phal.git
