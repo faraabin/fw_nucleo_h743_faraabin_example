@@ -1,1 +1,1 @@
-# fw_nucleo_h745_faraabin_example
+# fw_nucleo_h743_faraabin_example
