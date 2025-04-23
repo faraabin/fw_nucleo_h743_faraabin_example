@@ -1,2 +1,2 @@
-# fw_nucleo32_l4_faraabin_example
-Test example for faraabin on Nucleo-l432KC eval board
+# fw_nucleo_h743_faraabin_example
+Test example for faraabin on Nucleo-H743ZI eval board
